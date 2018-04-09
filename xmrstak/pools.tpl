@@ -33,7 +33,7 @@ POOLCONF],
  *
  */
 
-"currency" : "CURRENCY",
+"currency" : "stellite",
 
 )==="
 		
